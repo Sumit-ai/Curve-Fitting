@@ -14,5 +14,7 @@
 
 #### References 
 [1]. https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/
+
 [2]. https://en.wikipedia.org/wiki/Linear_regression
+
 [3]. https://www.varsitytutors.com/hotmath/hotmath_help/topics/exponential-regression
